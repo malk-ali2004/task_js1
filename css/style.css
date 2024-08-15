@@ -1,0 +1,75 @@
+
+.HOME{
+    margin-top: 70PX;
+    background-color: rgb(165, 165, 111);
+}
+.title1 p{
+    text-align: center;
+    font-size: 40px;
+    margin-top: 30px;
+
+}
+/* dress */
+.Containclock{
+    position: relative;
+}
+.Containclock .contain1 ,.Containclock .contain2 ,.Containclock .contain3 ,.Containclock .contain4{
+    position: absolute;
+    float: left;
+}
+.Containclock .contain1{
+margin-left: 100px;
+}
+.Containclock .contain2{
+    margin-left: 450px;   
+}
+.Containclock .contain3{
+    margin-left: 800px;
+}
+.Containclock .contain4{
+    margin-left: 1150px;
+}
+/* home2 */
+.home2{
+    margin-top: 550px;
+}
+.home2 .title2{
+    text-align: center;
+    font-size: 40px;
+}
+.Containperfoum{
+    position: relative;
+}
+.Containperfoum .contain1 ,.Containperfoum .contain2 ,.Containperfoum .contain3 ,.Containperfoum .contain4{
+    position: absolute;
+    float: left;
+}
+.Containperfoum .contain1{
+margin-left: 100px;
+}
+.Containperfoum .contain2{
+    margin-left: 450px;   
+}
+.Containperfoum .contain3{
+    margin-left: 800px;
+}
+.Containperfoum .contain4{
+    margin-left: 1150px;
+} 
+.card-body .btn{
+    background-color: black;
+    color:beige
+}
+
+ .container{
+    margin-top: 500px;
+    margin-left:100px;
+ }
+ .container .buttons button{
+    background-color:black;
+    color:beige;
+ }
+ .container .buttons button:hover{
+    background-color:beige;
+    color:black;
+ }
